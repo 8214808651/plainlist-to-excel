@@ -3,10 +3,12 @@ Formats a plaintext list into a more printer-friendly numbered excel file
 
 # Usage
 Install xlwings:
-  pip install xlwings
+
+    pip install xlwings
 
 Run listToExcel:
-  python listToExcel inputFile outputFile
+
+    python listToExcel inputFile outputFile
   
 Note: The input file must be a list with one word per line. The output file must be a valid excel file.
 
